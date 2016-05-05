@@ -1,0 +1,21 @@
+{
+  "name": "southwards.github.io",
+  "homepage": "https://github.com/southwards/southwards.github.io",
+  "authors": [
+    "southward"
+  ],
+  "description": "southward's home page",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dep",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#^2.1.8"
+  }
+}

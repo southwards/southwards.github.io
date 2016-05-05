@@ -1,0 +1,5 @@
+{
+    "directory": "dep",
+    "analytics": false,
+    "timeout": 360000
+}
